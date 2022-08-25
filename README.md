@@ -83,7 +83,7 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
 **VIDEO**
  
- 
+ https://youtu.be/8B_5IAkPPPU
 
 ***
 
