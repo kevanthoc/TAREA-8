@@ -975,6 +975,14 @@ Desde luego, no existe trayectoria para la corriente; por ello, el voltaje en el
 ***
 
 **CONCLUSIONES**
+ -La impedancia total de un circuito es el conjunto de componentes que resisten el paso de la corriente, además, la impedancia en un circuito AC representa el valor de la resistencia en la Ley de Ohm aplicable a las corrientes alternas.
+
+
+-En conclusión, tenemos el circuito RL, que es un circuito de diferencia de fase donde el voltaje de salida es anterior al voltaje de entrada en una cantidad específica.
+
+
+-En conclusión tenemos que el circuito RL de adelanto es un circuito de desplazamiento de fase en el cual el voltaje de salida aparece adelantado con respecto al voltaje
+
 
 
 ***
